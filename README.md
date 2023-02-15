@@ -1,2 +1,2 @@
-###### 学校用アカウント
+#### 学校用アカウント
 [main](https://github.com/cet-t)
